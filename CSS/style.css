@@ -23,7 +23,8 @@ h1 {
 input, button {
     margin-top: 10px;
     padding: 10px;
-    width: 100%;
+    width: 95%;
+    border-radius: 10px;
 }
 
 button {
@@ -31,6 +32,7 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    width: 103%;
 }
 
 button:hover {
@@ -40,7 +42,7 @@ button:hover {
 #todo-list p {
     background: #e7e7e7;
     padding: 8px;
-    border-radius: 4px;
+    border-radius: 10px;
     margin-top: 5px;
 }
 
